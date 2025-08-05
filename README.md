@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Zubair Hashmi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedzubairhashmi&label=Profile%20views&color=0e75b6&style=flat" alt="syedzubairhashmi" /> </p>
-
-- 🔭 I’m currently working on **JavaScript**
-
-- 🌱 I’m currently learning **JavaScript & React**
 
 - 📫 How to reach me **zubairhashmi423@gmail.com**
 
